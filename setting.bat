@@ -1,0 +1,1 @@
+NETSH WLAN set hostednetwork mode=allow ssid=1234567890 key=1234567890

@@ -1,0 +1,12 @@
+https://ilparchettodellostudente-it.blogspot.com/2021/06/c-wifi-gui-creare-un-menu-per-gestire.html
+
+
+Esercizio: Creazione di una WiFi-Gui.
+Sviluppare un programma che permetta di gestire una rete wifi / Hotspot utilizzando la Network Shell ed un menù per gestire il tutto.
+Per usare la Network Shell occorre usare il comando netsh.
+Il menù dovrà contenere le seguenti opzioni
+
+1) Start -> Per avviare la rete wifi / Hotspot
+2) Stop -> Per arrestare la rete wifi / Hotspot
+3) Status -> Per stampare le informazioni attuali della rete wifi / Hotspot (Nome della rete e la relativa password ovvero SSID e KEY)
+4) Setting -> Per cambiare il nome e la password della rete wifi / Hotspot
