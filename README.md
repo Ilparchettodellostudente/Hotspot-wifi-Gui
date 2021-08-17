@@ -1,5 +1,6 @@
 # Hotspot-wifi-Gui
 Interfaccia GUI per creare e gestire una rete wifi locale dal PC (Windows)
+GUI interface to create and manage a local wifi network from the PC (Windows)
 
 Link sito web: https://ilparchettodellostudente-it.blogspot.com/2021/06/c-wifi-gui-creare-un-menu-per-gestire.html <br>
 Link Ide (Dev-C++): https://sourceforge.net/projects/embarcadero-devcpp/files/v6.0/ <br>
